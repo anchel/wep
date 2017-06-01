@@ -1,6 +1,6 @@
 {
-  "name": "wep",
-  "version": "1.0.0",
+  "name": "@tencent/wep",
+  "version": "1.0.6",
   "description": "发布工具",
   "main": "lib/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "co": "^4.6.0",
     "commander": "^2.9.0",
     "findup-sync": "^1.0.0",
+    "glob": "^7.1.2",
     "inquirer": "^3.0.6",
     "lodash": "^4.17.4",
     "mkdirp-promise": "^5.0.1",
